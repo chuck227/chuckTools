@@ -1,0 +1,7 @@
+[build-system]
+requires=["setuptools"]
+build-backend="setuptools.build_meta"
+
+[project]
+dynamic=['version']
+name="chuckTools"
