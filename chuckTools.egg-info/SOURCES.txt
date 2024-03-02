@@ -1,7 +1,0 @@
-pyproject.toml
-setup.py
-chuckTools.egg-info/PKG-INFO
-chuckTools.egg-info/SOURCES.txt
-chuckTools.egg-info/dependency_links.txt
-chuckTools.egg-info/top_level.txt
-chuckTools/win/processInjection.c

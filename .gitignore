@@ -1,0 +1,3 @@
+build\**
+chuckTools.egg-info\**
+.vscode\*
